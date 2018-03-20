@@ -15,6 +15,9 @@
 	width: 160px;
 	margin: 5px;
 	background-color: #ccc;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 @media all and (max-width: 1024px) and (min-width: 768px){
