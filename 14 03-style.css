@@ -17,10 +17,10 @@
 	background-color: #ccc;
 }
 
-
-
 @media all and (max-width: 1024px) and (min-width: 768px){
-
+.block-none {
+	display: none;
+}
 
 }
 
